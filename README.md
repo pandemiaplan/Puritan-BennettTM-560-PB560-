@@ -7,6 +7,8 @@ Medtronic is working around the clock to manufacture ventilators and create new 
 
 Medtronic is publicly posting design specifications for the Puritan BennettTM 560 (PB560) to allow innovators, inventors, start-ups, and academic institutions to leverage their own expertise and resources to evaluate options for rapid ventilator manufacturing. Our goal has been to release this information in phases over the course of a brief period.
 
+<img align="right" src="https://github.com/pandemiaplan/Puritan-BennettTM-560-PB560-/blob/master/PB560.jpg" alt="drawing" width="300"/>
+
 To aid in the manufacturing evaluation, we first prioritized sharing the hardware design specifications and manufacturing instructions, which were shared on March 30. Next, on March 31, we posted additional ventilator design documents, including manufacturing fixtures, printed circuit board drawings, multiple bills of materials (BOMs), and 3D CAD files. On April 1, we posted software source code files. A final packages of documents with additional BOMs and other information was posted on April 3.
 
 **Thank you for your patience as Medtronic rolls out this extensive information during this time and for your interest in addressing the critical need for ventilators.**
